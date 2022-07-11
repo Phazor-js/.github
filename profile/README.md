@@ -5,3 +5,4 @@ Phazor.js is similar to jQuery but we make it self!
 
 We made new fatures to be best!
 Join us contribute phazor.js!
+Check pins to find main repo.
