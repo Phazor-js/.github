@@ -2,14 +2,14 @@
   <br />
   <img
     alt="logo"
-    src="/docs/favicon.png"
+    src="https://github.com/Phazor-js/Phazor.js/blob/main//docs/favicon.png"
     height="150px"
   />
 </p>
 <h1 align="center"><b>Phazor.js</b></h1>
 <p align="center">
   <a
-    href="/LICENSE"
+    href="https://github.com/Phazor-js/Phazor.js/blob/main//LICENSE"
     ><img
       alt="License"
       src="https://img.shields.io/badge/License-MIT%202.0-blue.svg"
